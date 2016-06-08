@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'polygraph_db',
         'USER': 'boikoandrei',
-        'PASSWORD': '1610',
+        'PASSWORD': '########',
     }
 }
 
